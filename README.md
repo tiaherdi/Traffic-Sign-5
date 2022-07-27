@@ -1,2 +1,1 @@
-# Traffic-Sign-5
-Traffic sign Group 5
+This project is a Time Series Forecasting project focusing on COVID-19 impact to airport traffic in four countries: Australia (AU), Canada (CA), Chile (CL), and USA (US). The variable we focused on is Percent of Baseline and Date based on each country. 
